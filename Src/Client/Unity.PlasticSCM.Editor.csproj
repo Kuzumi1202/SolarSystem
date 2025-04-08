@@ -147,8 +147,8 @@
     <Compile Include="Library\PackageCache\com.unity.collab-proxy@2.7.1\Editor\Developer\ProgressOperationHandler.cs" />
     <Compile Include="Library\PackageCache\com.unity.collab-proxy@2.7.1\Editor\_Deprecated\CollabPlugin.cs" />
     <Compile Include="Library\PackageCache\com.unity.collab-proxy@2.7.1\Editor\Views\CreateWorkspace\DrawCreateWorkspaceView.cs" />
-    <Compile Include="Library\PackageCache\com.unity.collab-proxy@2.7.1\Editor\Tool\FindTool.cs" />
     <Compile Include="Library\PackageCache\com.unity.collab-proxy@2.7.1\Editor\Views\Shelves\ShelvesListView.cs" />
+    <Compile Include="Library\PackageCache\com.unity.collab-proxy@2.7.1\Editor\Tool\FindTool.cs" />
     <Compile Include="Library\PackageCache\com.unity.collab-proxy@2.7.1\Editor\Configuration\CloudEdition\Welcome\OrganizationPanel.cs" />
     <Compile Include="Library\PackageCache\com.unity.collab-proxy@2.7.1\Editor\Views\PendingChanges\Dialogs\LaunchCheckinConflictsDialog.cs" />
     <Compile Include="Library\PackageCache\com.unity.collab-proxy@2.7.1\Editor\Views\Locks\LocksListView.cs" />

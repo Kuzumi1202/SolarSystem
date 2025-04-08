@@ -121,6 +121,7 @@
 -define:TEXTCORE_FONT_ENGINE_1_5_OR_NEWER
 -define:CSHARP_7_OR_LATER
 -define:CSHARP_7_3_OR_NEWER
+-r:"Assets/JsonDotNet/Assemblies/Standalone/Newtonsoft.Json.dll"
 -r:"D:/Kuzumi_design/unity/2022.3.58f1/Editor/Data/Managed/UnityEngine/UnityEditor.CoreModule.dll"
 -r:"D:/Kuzumi_design/unity/2022.3.58f1/Editor/Data/Managed/UnityEngine/UnityEditor.DeviceSimulatorModule.dll"
 -r:"D:/Kuzumi_design/unity/2022.3.58f1/Editor/Data/Managed/UnityEngine/UnityEditor.DiagnosticsModule.dll"
@@ -354,6 +355,10 @@
 -analyzer:"D:/Kuzumi_design/unity/2022.3.58f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.Properties.SourceGenerator.dll"
 -analyzer:"D:/Kuzumi_design/unity/2022.3.58f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.SourceGenerators.dll"
 "Assets/Scripts/LoadingManager.cs"
+"Assets/Scripts/Manager/DataManager.cs"
+"Assets/Scripts/Manager/MotionManager.cs"
+"Assets/Scripts/Motion/Celestial.cs"
+"Assets/Scripts/Motion/Move.cs"
 -langversion:9.0
 /deterministic
 /optimize-

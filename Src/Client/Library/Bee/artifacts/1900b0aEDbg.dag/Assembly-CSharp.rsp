@@ -354,11 +354,13 @@
 -r:"Library/Bee/artifacts/1900b0aEDbg.dag/UnityEngine.UI.ref.dll"
 -analyzer:"D:/Kuzumi_design/unity/2022.3.58f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.Properties.SourceGenerator.dll"
 -analyzer:"D:/Kuzumi_design/unity/2022.3.58f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.SourceGenerators.dll"
-"Assets/Scripts/LoadingManager.cs"
+"Assets/Scripts/Defined/Celestial.cs"
 "Assets/Scripts/Manager/DataManager.cs"
+"Assets/Scripts/Manager/LoadingManager.cs"
 "Assets/Scripts/Manager/MotionManager.cs"
-"Assets/Scripts/Motion/Celestial.cs"
-"Assets/Scripts/Motion/Move.cs"
+"Assets/Scripts/Motion/Planet.cs"
+"Assets/Scripts/Motion/Satellite.cs"
+"Assets/Scripts/Motion/Star.cs"
 -langversion:9.0
 /deterministic
 /optimize-

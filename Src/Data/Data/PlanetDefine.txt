@@ -1,0 +1,102 @@
+{
+  "1": {
+    "TID": 1,
+    "Name": "太阳",
+    "Type": "STAR",
+    "Class": "SUN",
+    "Master": "Normal",
+    "Autorotation": 0.139,
+    "Revolution": 0.0,
+    "Description": "Normal"
+  },
+  "2": {
+    "TID": 2,
+    "Name": "水星",
+    "Type": "PLANET",
+    "Class": "MERCURY",
+    "Master": "SUN",
+    "Autorotation": 0.012,
+    "Revolution": 0.47,
+    "Description": "Normal"
+  },
+  "3": {
+    "TID": 3,
+    "Name": "金星",
+    "Type": "PLANET",
+    "Class": "VENUS",
+    "Master": "SUN",
+    "Autorotation": 0.35,
+    "Revolution": -0.14,
+    "Description": "Normal"
+  },
+  "4": {
+    "TID": 4,
+    "Name": "地球",
+    "Type": "PLANET",
+    "Class": "EARTH",
+    "Master": "SUN",
+    "Autorotation": 4.16,
+    "Revolution": 0.3,
+    "Description": "Normal"
+  },
+  "5": {
+    "TID": 5,
+    "Name": "月球",
+    "Type": "SATELLITE",
+    "Class": "MOON",
+    "Master": "EARTH",
+    "Autorotation": 20.0,
+    "Revolution": 1.0,
+    "Description": "Normal"
+  },
+  "6": {
+    "TID": 6,
+    "Name": "火星",
+    "Type": "PLANET",
+    "Class": "MARS",
+    "Master": "SUN",
+    "Autorotation": 4.08,
+    "Revolution": 0.24,
+    "Description": "Normal"
+  },
+  "7": {
+    "TID": 7,
+    "Name": "木星",
+    "Type": "PLANET",
+    "Class": "JUPITER",
+    "Master": "SUN",
+    "Autorotation": 50.0,
+    "Revolution": 0.13,
+    "Description": "Normal"
+  },
+  "8": {
+    "TID": 8,
+    "Name": "土星",
+    "Type": "PLANET",
+    "Class": "SATURN",
+    "Master": "SUN",
+    "Autorotation": 24.1,
+    "Revolution": 0.1,
+    "Description": "Normal"
+  },
+  "9": {
+    "TID": 9,
+    "Name": "天王星",
+    "Type": "PLANET",
+    "Class": "URANUS",
+    "Master": "SUN",
+    "Autorotation": 19.2,
+    "Revolution": 0.06,
+    "Description": "Normal"
+  },
+  "10": {
+    "TID": 10,
+    "Name": "海王星",
+    "Type": "PLANET",
+    "Class": "NEPTUNE",
+    "Master": "SUN",
+    "Autorotation": 5.72,
+    "Revolution": 0.06,
+    "Description": "Normal"
+  }
+}
